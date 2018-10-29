@@ -1,0 +1,7 @@
+.thumb {
+  display: flex;
+}
+
+.thumb li {
+  margin: 20px;
+}
